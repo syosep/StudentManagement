@@ -1,5 +1,6 @@
 package com.example.studentmanagementprogram.dao;
 
+import com.example.studentmanagementprogram.model.Student;
 import com.example.studentmanagementprogram.util.DBConnection;
 
 import java.sql.*;
